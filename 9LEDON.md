@@ -1,5 +1,5 @@
 # 9LEDON (23.03.29)
-![tinker cad](/ledon.png)
+![ledon](https://user-images.githubusercontent.com/129159977/235813592-3b4d3fd3-e539-4f0f-9330-ee9013ee0417.png)
 
 <hr/>
 
