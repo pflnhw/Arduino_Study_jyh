@@ -9,3 +9,4 @@
 - [Pullup_Example1](pullup_example1.md)
 - [YeonheeDevboard](YeonheeDevboard.md)
 - [UltraSonic](UltraSonic.md)
+- [7seg](7seg.md)
